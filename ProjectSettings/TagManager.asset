@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Guzai
+  - ColdBless
+  - GoalFlag
+  - CatHead
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Table
+    uniqueID: 580746233
+    locked: 0
+  - name: Dish
+    uniqueID: 2758903007
+    locked: 0
+  - name: Stew
+    uniqueID: 2801417965
+    locked: 0
+  - name: Guzai
+    uniqueID: 2506348529
+    locked: 0
+  - name: RightArm
+    uniqueID: 1024311673
+    locked: 0
+  - name: RightHand
+    uniqueID: 1478404811
+    locked: 0
+  - name: LeftArm
+    uniqueID: 3684313187
+    locked: 0
+  - name: LeftHand
+    uniqueID: 2057688443
+    locked: 0
+  - name: BlessGuide
+    uniqueID: 895637671
+    locked: 0
+  - name: BlessEffect
+    uniqueID: 3763960331
+    locked: 0
+  - name: Bless
+    uniqueID: 4044615673
+    locked: 0
+  - name: CatHead
+    uniqueID: 2883823941
+    locked: 0
+  - name: UI
+    uniqueID: 1926795079
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GoalFlag
+    uniqueID: 4184364587
+    locked: 0
+  - name: RunCat
+    uniqueID: 1092472265
+    locked: 0
+  - name: GameEnd
+    uniqueID: 1950305595
+    locked: 0
