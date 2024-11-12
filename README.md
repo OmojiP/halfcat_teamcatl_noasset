@@ -5,3 +5,6 @@
 プレイは下のリンクから(unityroom)
 
 https://unityroom.com/games/halfcat_teamcatl_4marvelousgamejam
+
+動画URL
+https://youtu.be/ceAdZj0jiFk
